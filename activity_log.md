@@ -3,3 +3,4 @@
 - [2026-05-11T12:52:20Z] chore: remove deprecated API calls
 - [2026-05-11T13:58:18Z] docs: update README with usage examples
 - [2026-05-11T16:31:02Z] feat: add helper utility function
+- [2026-05-11T16:56:03Z] test: add unit tests for core module
